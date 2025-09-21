@@ -3,7 +3,6 @@ __pycache__/
 *.pyc
 .env
 data_processing.py
-data_extraction.py
 llm_interface.py
 query_engine.py
 creds.py
